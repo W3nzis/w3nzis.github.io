@@ -15,9 +15,11 @@ background-color: #303030;
 
 .rectangle
 {
-width: 960px;
+width: 940px;
 margin: 20px;
 text-align: center;
+padding: 10px;
+background-color: #303030;
 }
 
 .square
@@ -178,13 +180,6 @@ text-align: center;
 background-color: #2084c2;
 }
 
-.endtext
-{
-width: 960px;
-margin: 20px;
-font-family: 'Josefin Sans', sans-serif;
-padding: 20px;
-}
 
 a.tilelink
 {
