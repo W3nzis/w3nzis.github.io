@@ -1,0 +1,8 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-gmail:before { content: '\e801'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-twitch:before { content: '\f1e8'; } /* '' */
+.icon-sticky-note-o:before { content: '\f24a'; } /* '' */
